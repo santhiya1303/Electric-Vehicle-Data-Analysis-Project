@@ -1,3 +1,8 @@
+# 🚗 Electric Vehicle Data Analysis Project
+
+This project focuses on analyzing **Electric Vehicle (EV)** data to uncover insights on adoption trends, regional and manufacturer growth, and sustainability impact. 
+The analysis helps stakeholders understand how EV adoption is progressing and what strategic actions can accelerate market growth.
+
 ## 🎯 Objectives
 - Analyze EV manufactures and adoption rates across different states.  
 - Identify top-performing manufacturers and models.  
